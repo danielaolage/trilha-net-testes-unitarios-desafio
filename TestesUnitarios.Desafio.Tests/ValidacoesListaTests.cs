@@ -67,8 +67,6 @@ public class ValidacoesListaTests
     [Fact]
     public void DeveRetornar9ComoMaiorNumeroDaLista()
     {
-        //TODO: Implementar método de teste
-
         // Arrange
         var lista = new List<int> { 5, -1, -8, 9 };
 
